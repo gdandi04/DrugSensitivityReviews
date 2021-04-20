@@ -4,9 +4,9 @@ Gauri Dandi, Emma Brown-Carley, Shraeya Srinivasan, Sarah Wessel, Martina Radosl
 ## Intro
 
 ## Included Files
-* Data Cleaning/data_cleaning.ipynb
+* [Data Cleaning/data_cleaning.ipynb](https://github.com/gdandi04/DrugSensitivityReviews/blob/main/Data%20Cleaning/data_cleaning.ipynb)
 	* Initial data munging and cleaning of raw datasets
-* Data Cleaning/create_views.sql
+* [Data Cleaning/create_views.sql](https://github.com/gdandi04/DrugSensitivityReviews/blob/main/Data%20Cleaning/create_views.sql)
 	* SQL file containing reformatting of cleaned CSV files into aggregated views
 
 ## References
