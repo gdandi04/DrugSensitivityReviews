@@ -9,6 +9,8 @@ The goal of this project was to understand how patient drug reviews differ for d
 	* Initial data munging and cleaning of raw datasets
 * [Data Cleaning/create_views.sql](https://github.com/gdandi04/DrugSensitivityReviews/blob/main/Data%20Cleaning/create_views.sql)
 	* SQL file containing reformatting of cleaned CSV files into aggregated views
+* Exploratory_Queries.pdf
+	* Compilation of Cypher queries and the resulting graphs highlighting interesting links found in the Graph Database
 
 ## References
 * Drug Reviews Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
