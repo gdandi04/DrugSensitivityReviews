@@ -11,6 +11,4 @@ Gauri Dandi, Emma Brown-Carley, Shraeya Srinivasan, Sarah Wessel, Martina Radosl
 
 ## References
 * Drug Reviews Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
-* Cancer Drug Pathways Dataset (GDSC):
-	* [GDSC 1](ftp://ftp.sanger.ac.uk/pub/project/cancerrxgene/releases/current_release/GDSC1_fitted_dose_response_25Feb20.xlsx)
-	* [GDSC 2](ftp://ftp.sanger.ac.uk/pub/project/cancerrxgene/releases/current_release/GDSC2_fitted_dose_response_25Feb20.xlsx)
+* Cancer Drug Pathways Dataset: [GDSC Bulk Download](https://www.cancerrxgene.org/downloads/bulk_download)
