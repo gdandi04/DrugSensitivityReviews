@@ -9,7 +9,7 @@ SELECT * FROM drugreviews;
 # view of drug reviews with
 # drug name, condition, average rating of the drug for that condition, total usefullness score
 CREATE VIEW drug_reviews AS
-	SELECT drugName, conditionName, avg(rating) as avg_rating, count(*) as num_reviews
+	SELECT drugName, conditionName, avg(rating) as avg_rating, count(*) as num_reviews, sum(usefullness) as usefullness
 	FROM drugreviews
 	WHERE drugName IN (
 		SELECT DRUG_NAME FROM gdsc
