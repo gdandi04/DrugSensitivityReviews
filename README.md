@@ -1,4 +1,4 @@
-# DrugSensitivityReviews
+# Exploring Anecdotal Patient Experience of Cancer Treatments
 Gauri Dandi, Emma Brown-Carley, Shraeya Srinivasan, Sarah Wessel, Martina Radoslavov
 
 ## Intro
